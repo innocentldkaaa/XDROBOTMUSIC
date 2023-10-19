@@ -110,10 +110,10 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚂𝚄𝙿𝙿𝙾𝚁𝚃✭", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚄𝙿𝙳𝙰𝚃𝙴✭", url=f"https://t.me/friendship_forever_group143"),
+        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚄𝙿𝙳𝙰𝚃𝙴✭", url=f"https://t.me/khamoshiya01"),
     ],
     [
-        InlineKeyboardButton(text="💞 sᴏᴜʀᴄᴇ 💞", callback_data="mukesh_"),
+        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥ᴿᴱᴾᴼ .𓈀✔", callback_data="mukesh_"),
     ],
 ]
 

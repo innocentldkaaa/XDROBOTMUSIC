@@ -520,7 +520,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_1":
         query.message.edit_text(
-            text=f"*» 💫 ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ 💫 «*"
+            text=f"*»  ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ  «*"
             f"""
 
 
@@ -552,7 +552,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_2":
         query.message.edit_text(
-            text=f"*» 😍 ᴀᴜᴛʜ ᴜsᴇʀs 😍 «*"
+            text=f"*»  ᴀᴜᴛʜ ᴜsᴇʀs  «*"
             f"""
 
 ᴀᴜᴛʜ ᴜsᴇʀs ᴄᴀɴ ᴜsᴇ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜᴏᴜᴛ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɪɴ ᴛʜᴇ ᴄʜᴀᴛ. [ᴀᴅᴍɪɴs ᴏɴʟʏ]
@@ -577,7 +577,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_3":
         query.message.edit_text(
-            text=f"*» 🥵 ʙʟᴀᴄᴋʟɪsᴛ ᴄʜᴀᴛ 🥵 «*"
+            text=f"*» ʙʟᴀᴄᴋʟɪsᴛ ᴄʜᴀᴛ  «*"
             f""" 
 
 ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -611,7 +611,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_4":
         query.message.edit_text(
-            text=f"*» 🫀 ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ 🫀 «*"
+            text=f"*» ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ  «*"
             f"""
 
 /broadcast , /gcast  [ᴍᴇssᴀɢᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ] : ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
@@ -640,7 +640,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_5":
         query.message.edit_text(
-            text=f"*» 🥶 ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ 🥶 «*"
+            text=f"*»  ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ  «*"
             f"""
 
 /gban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴄʜᴜᴛɪʏᴀ] : ɢʟᴏʙᴀʟʟʏ ʙᴀɴs ᴛʜᴇ ᴄʜᴜᴛɪʏᴀ ғʀᴏᴍ ᴀʟʟ ᴛʜᴇ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴀɴᴅ ʙʟᴀᴄᴋʟɪsᴛ ʜɪᴍ ғʀᴏᴍ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ.
@@ -663,7 +663,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_6":
         query.message.edit_text(
-            text=f"*» 🥀 𝙻𝚈𝚁𝙸𝙲𝚂 & 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 🥀 «*"
+            text=f"*» 𝙻𝚈𝚁𝙸𝙲𝚂 & 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂  «*"
             f"""
 
 /loop [ᴅɪsᴀʙʟᴇ/ᴇɴᴀʙʟᴇ] ᴏʀ [ʙᴇᴛᴡᴇᴇɴ 1:10] 
@@ -693,7 +693,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_7":
         query.message.edit_text(
-            text=f"*» 💞 ᴩʟᴀʏʟɪsᴛs ғᴇᴀᴛᴜʀᴇ 💞 «*"
+            text=f"*» ᴩʟᴀʏʟɪsᴛs ғᴇᴀᴛᴜʀᴇ  «*"
             f"""
 
 /playlist : ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
@@ -716,7 +716,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_8":
         query.message.edit_text(
-            text=f"*» ⚡ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs ⚡ «*"
+            text=f"*» ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs  «*"
             f"""
 
 /activevoice : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇᴄʜᴀᴛs ᴏɴ ᴛʜᴇ ʙᴏᴛ.
@@ -737,7 +737,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_9":
         query.message.edit_text(
-            text=f"*» 😇 ᴩʟᴀʏ ғᴇᴀᴛᴜʀᴇ 😇 «*"
+            text=f"*»  ᴩʟᴀʏ ғᴇᴀᴛᴜʀᴇ  «*"
             f"""
 
 •c sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴩʟᴀʏ.
@@ -764,7 +764,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_10":
         query.message.edit_text(
-            text=f"*» 😉 ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ 😉 «*"
+            text=f"*» ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ  «*"
             f"""
 
 🥶 ʜᴇʀᴏᴋᴜ :
@@ -800,7 +800,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "Music_11":
         query.message.edit_text(
-            text=f"*» 😧 ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ 😧 «*"
+            text=f"*»  ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ  «*"
             f"""
 
 /start : sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ.
@@ -866,7 +866,7 @@ def get_help(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="😉 𝗦𝘁𝗮𝗿𝘁 𝗜𝗻 𝗣𝗿𝗶𝘃𝗮𝘁𝗲😉 ",
+                            text=" 𝗦𝘁𝗮𝗿𝘁 𝗜𝗻 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ",
                             url="https://t.me/{}?start=help".format(
                                 context.bot.username
                             ),
@@ -874,7 +874,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🥵𝗢𝗽𝗲𝗻 𝗛𝗲𝗿𝗲🥵",
+                            text="𝗢𝗽𝗲𝗻 𝗛𝗲𝗿𝗲",
                             callback_data="help_back",
                         )
                     ],

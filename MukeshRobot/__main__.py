@@ -86,7 +86,7 @@ PM_START_TEXT = """
 ╚═════════════════❍⊱❁۪۪
       ╔═════ஜ۩۞۩ஜ════╗
 
-        👑 ᴍᴀᴅᴇ ʙʏ ʀᴏᴄᴋʏ 👑
+        💞ᴍᴀᴅᴇ ʙʏ ɪɴɴᴏᴄᴇɴᴛ💞
     
       ╚═════ஜ۩۞۩ஜ════╝
 
@@ -94,7 +94,7 @@ PM_START_TEXT = """
 
 ғᴇᴇʟ ʟᴀɢ ғʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ sᴜᴘᴇʀ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴍᴀɴᴀɢɪɴɢ-ɢʀᴏᴜᴘ &  ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ
 
-☆................... ʀσᴄкყ ..................☆ 
+☆................... ɪɴɴᴏᴄᴇɴᴛ ..................☆ 
 """
 
 buttons = [
@@ -105,12 +105,12 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🥵 ʜᴇʟᴘ 🥵", callback_data="help_back"),
-        InlineKeyboardButton(text="🥶 ᴍᴜsɪᴄ 🥶", callback_data="Music_"),
+        InlineKeyboardButton(text="✭𝙷𝙴𝙻𝙿 ♡︎ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂✭", callback_data="help_back"),
+        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝙼𝚄𝚂𝙸𝙲✭", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="🫀 ɢʀᴏᴜᴘ 🫀", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="😇 ᴏғғɪᴄᴇ 😇", url=f"https://t.me/XD_N3TWORK"),
+        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚂𝚄𝙿𝙿𝙾𝚁𝚃✭", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="⎯꯭‌✭𝆺꯭𝅥𝚄𝙿𝙳𝙰𝚃𝙴✭"", url=f"https://t.me/khamoshiya01"),
     ],
     [
         InlineKeyboardButton(text="💞 sᴏᴜʀᴄᴇ 💞", callback_data="mukesh_"),

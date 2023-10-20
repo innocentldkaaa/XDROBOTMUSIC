@@ -91,12 +91,12 @@ dispatcher.add_handler(LEAVE_HANDLER)
 dispatcher.add_handler(GITPULL_HANDLER)
 dispatcher.add_handler(RESTART_HANDLER)
 
-__mod_name__ = "♨️ᴅᴇᴠ♨️"
+__mod_name__ = "⛧‌ᴅᴇᴠ⛧‌"
 __help__ = """ 
 /ʟᴏᴄᴋᴅᴏᴡɴ ᴏɴ/ᴏғғ
 /ʟᴇᴀᴠᴇ  ᴛᴏ ʟᴇᴀᴠᴇ ᴄʜᴀᴛ
 /ɢɪᴛᴘᴜʟʟ  ᴛᴏ ᴘᴜʟʟ ɢɪᴛ
 /ʀᴇʙᴏᴏᴛ ᴏʀ /ʀᴇsᴛᴀʀᴛ ᴛᴏ ʀᴇsᴛᴀʀᴛ ʙᴏᴛ 
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆"""
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆"""
 __handlers__ = [LEAVE_HANDLER, GITPULL_HANDLER, RESTART_HANDLER, ALLOWGROUPS_HANDLER]

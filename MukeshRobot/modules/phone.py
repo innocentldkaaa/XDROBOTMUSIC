@@ -7,12 +7,12 @@ from MukeshRobot import dispatcher
 from MukeshRobot.modules.helper_funcs.alternate import send_message
 from MukeshRobot.modules.helper_funcs.chat_status import user_admin
 
-__mod_name__ = "📍𝙿ʜᴏɴᴇ📍"
+__mod_name__ = "💞 𝙿ʜᴏɴᴇ 💞"
 __help__ = """
 » /phone ꜰɪʟʟ ᴀɴʏ ᴍᴏʙɪʟᴇ ɴᴜᴍʙᴇʀ ᴛᴏ ᴄʜᴇᴄᴋ ɪɴꜰᴏ.
 
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆"""
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆"""
 
 
 @run_async

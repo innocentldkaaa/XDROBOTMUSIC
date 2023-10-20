@@ -57,9 +57,9 @@ dispatcher.add_handler(CONVERTER_HANDLER)
 
 __command_list__ = ["cash"]
 __handlers__ = [CONVERTER_HANDLER]
-__mod_name__ = "♨️ᴄᴀsʜ♨️"
+__mod_name__ = "⛧‌ᴄᴀsʜ⛧‌"
 __help__ = """
  /ᴄᴀsʜ  ᴄᴏɴᴠᴇʀᴛ ᴇᴀᴄʜ ᴏᴛʜᴇʀ ᴄᴜʀʀᴇɴᴄʏ 
  /ᴄᴏɴᴠᴇʀᴛ ᴏʀ ᴛʀʏ 
  
- ☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆"""
+ ☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆"""

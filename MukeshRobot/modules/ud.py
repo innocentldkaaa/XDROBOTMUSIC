@@ -27,8 +27,8 @@ dispatcher.add_handler(UD_HANDLER)
 __help__ = """
 » /ud (text) *:* sᴇᴀʀᴄʜs ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴏɴ ᴜʀʙᴀɴ ᴅɪᴄᴛɪᴏɴᴀʀʏ ᴀɴᴅ sᴇɴᴅs ʏᴏᴜ ᴛʜᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
-__mod_name__ = "⚡Uʀʙᴀɴ⚡"
+__mod_name__ = "💞Uʀʙᴀɴ💞"
 __command_list__ = ["ud"]
 __handlers__ = [UD_HANDLER]

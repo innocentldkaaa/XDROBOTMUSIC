@@ -418,10 +418,10 @@ __help__ = """
  `3ᴅ` = 3 ᴅᴀʏs
  `1ᴡ` = 1 ᴡᴇᴇᴋ
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
  """
 
-__mod_name__ = "♨️ꜰʟᴏᴏᴅ♨️"
+__mod_name__ = "⛧‌ꜰʟᴏᴏᴅ⛧‌"
 
 FLOOD_BAN_HANDLER = MessageHandler(
     Filters.all & ~Filters.status_update & Filters.group, check_flood

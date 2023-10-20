@@ -197,8 +197,8 @@ async def drawText(image_path, text):
     return webp_file
 
 
-__mod_name__ = "📍ᴍᴍғ📍"
+__mod_name__ = "💞 ᴍᴍғ 💞"
 __help__ = """ 
 ⫸ /mmf <ᴛᴇxᴛ> ◉ ᴛᴏ ᴍᴇᴍɪғʏ
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆ """
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆ """

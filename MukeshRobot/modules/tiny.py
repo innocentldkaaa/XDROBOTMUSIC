@@ -79,9 +79,9 @@ async def _(event):
     os.remove(ik)
 
 
-__mod_name__ = "⚡Tɪɴʏ⚡"
+__mod_name__ = "💞Tɪɴʏ💞"
 __help__ = """
 ❍  /tiny *:* ʀᴇᴘʟʏ ᴀ sᴛɪᴄᴋᴇʀ ᴀɴᴅ sᴇᴇ ᴍᴀɢɪᴄ
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """

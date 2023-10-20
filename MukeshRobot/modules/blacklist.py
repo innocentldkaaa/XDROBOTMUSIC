@@ -449,7 +449,7 @@ def __stats__():
     )
 
 
-__mod_name__ = "♨️Bʟᴀᴄᴋʟɪsᴛ♨️"
+__mod_name__ = "⛧‌Bʟᴀᴄᴋʟɪsᴛ⛧‌"
 
 __help__ = """
 
@@ -464,7 +464,7 @@ Admin only:
  ❍ /unblacklist <triggers>*:* Remove triggers from the blacklist. Same newline logic applies here, so you can remove multiple triggers at once.
  ❍ /blacklistmode <off/del/warn/ban/kick/mute/tban/tmute>*:* Action to perform when someone sends blacklisted words.
 
-☆............𝙱𝚈 » [ʀσᴄкყ](https://t.me/ROCKY_ISS_BACK)............☆
+☆............𝙱𝚈 » [ɪɴɴᴏᴄᴇɴᴛ](https://t.me/Itzz_me_innocentt)............☆
 """
 
 BLACKLIST_HANDLER = DisableAbleCommandHandler(

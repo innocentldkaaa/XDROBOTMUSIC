@@ -32,10 +32,9 @@ def quotes(update: Update, context: CallbackContext):
     )
     message.reply_text(
         msg,
-        reply_markup=keyboard,p
+        reply_markup=keyboard,
         parse_mode=ParseMode.HTML,
     )
-
 
 def change_quote(update: Update, context: CallbackContext):
     update.callback_query

@@ -32,7 +32,7 @@ def quotes(update: Update, context: CallbackContext):
     )
     message.reply_text(
         msg,
-        reply_markup=keyboard 
+        reply_markup=keyboard,
         parse_mode=ParseMode.HTML,
     )
 
